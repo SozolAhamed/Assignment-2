@@ -1,2 +1,4 @@
 # Assignment-2
-This is a langing page using only html and css.
+### Name : Sozol Ahamed.
+### Email : sojol4566@gmail.com
+Live url link : https://fantastic-profiterol-foodies.netlify.app/
